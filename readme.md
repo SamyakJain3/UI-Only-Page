@@ -5,7 +5,7 @@ A simple Gmail user interface clone built with HTML and Tailwind CSS.
 ## Screenshots
 
 Below are some example screenshots of the UI.  
-*(Make sure you have the images in the `output` folder as shown below)*
+
 
 ### Main UI
 
